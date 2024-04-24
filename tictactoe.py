@@ -67,7 +67,7 @@ class TicTacToe:
         else:
             print("It's a tie!")
 
-# Example usage
+# Example 
 if __name__ == "__main__":
     size = input("Enter the size of the Tic Tac Toe board (default is 3): ")
     try:
